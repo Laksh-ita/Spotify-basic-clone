@@ -1,0 +1,56 @@
+.flex{
+    display:flex;
+}
+
+.justify{
+    justify-content: center;
+}
+
+.align{
+    align-items: center;
+}
+
+.invert{
+    filter:invert(0.75);
+}
+.invert-white{
+    filter:invert(1);
+}
+
+.ion{
+    height:1.2rem;
+    width:1.2rem;
+    margin:0.75rem;
+}
+
+.gray{
+    color:#a7a7a7;
+}
+
+.margin{
+    border-radius: 7px;
+}
+
+.absolute{
+    position:absolute;
+    right: 2px;
+}
+.relative{
+    position: relative;
+}
+
+.fixed{
+    position:fixed;
+    top:0;
+    left:0;
+}
+
+.space-evenly{
+    justify-content: space-evenly;
+}
+
+.overflow{
+    overflow: scroll;
+}
+
+
